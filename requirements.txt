@@ -1,0 +1,16 @@
+# line_notify
+# Flask
+# gunicorn
+# selenium
+# Werkzeug
+Jinja2
+# # itsdangerous
+
+line_notify
+# Flask
+# gunicorn
+# selenium
+
+Flask
+gunicorn==19.9.0
+selenium==3.141.0
